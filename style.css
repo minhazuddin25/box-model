@@ -1,0 +1,14 @@
+.box{
+    width: 600px;
+    height: 300px;
+    
+    color: #000;
+    border: 30px solid #ff6347;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+}
+
+body{
+    border: 5px solid blueviolet;
+}
